@@ -44,7 +44,7 @@ keytop\_bot/
 
 ```bash
 git clone https://github.com/hairul2304/Botku.git
-cd keytop-bot
+cd botku
 ````
 
 ### 2. Install Dependencies
