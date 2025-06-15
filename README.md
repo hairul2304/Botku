@@ -43,7 +43,7 @@ keytop\_bot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/keytop-bot.git
+git clone https://github.com/hairul2304/Botku.git
 cd keytop-bot
 ````
 
